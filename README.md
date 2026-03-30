@@ -97,7 +97,7 @@ This repository also includes hands-on projects to apply NLP concepts:
 
 ### 📌 1. Email Spam Classifier
 - Classifies emails as **Spam or Not Spam**
-- Techniques: TF-IDF, Naive Bayes / Logistic Regression
+- Techniques: TF-IDF, Logistic Regression, EDA
 - Focus: Text preprocessing + classification pipeline
 
 ---
