@@ -104,7 +104,7 @@ This repository also includes hands-on projects to apply NLP concepts:
 
 ### 📌 2. Movie Review Sentiment Analysis
 - Predicts sentiment (**Positive / Negative**) from reviews
-- Techniques: LSTM, BiLSTM, or ML models
+- Techniques: LSTM, BiLSTM, Text Preprocessing
 - Dataset: IMDB
 
 ---
