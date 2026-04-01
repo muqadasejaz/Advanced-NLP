@@ -112,6 +112,7 @@ This repository also includes hands-on projects to apply NLP concepts:
 ### 📌 3. Twitter Sentiment Analysis
 - Analyzes tweets to detect sentiment
 - Handles noisy and short text
+- Techniques: SVM, Text Preprocessing, Text Classification
 - Focus: real-world social media data
 
 ---
