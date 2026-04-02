@@ -119,7 +119,7 @@ This repository also includes hands-on projects to apply NLP concepts:
 
 ### 📌 4. Fake News Detection
 - Classifies news as **Real or Fake**
-- Techniques: TF-IDF + ML / Deep Learning
+- Techniques: TF-IDF + ML / Deep Learning , Text Preprocessing
 - Use case: misinformation detection
 
 ---
