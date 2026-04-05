@@ -127,7 +127,7 @@ This repository also includes hands-on projects to apply NLP concepts:
 ### 📌 5. Duplicate Question Detection
 - Identifies whether two questions are similar
 - Dataset: Quora Question Pairs
-- Focus: semantic similarity
+- Focus: semantic similarity, Feature Engineering, Text Preprocessing, Model Training and Evaluation
 
 ---
 
