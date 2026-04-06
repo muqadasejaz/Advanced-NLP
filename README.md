@@ -183,3 +183,21 @@ Feel free to fork this repository, raise issues, or contribute to improve the co
 ## ⭐ Support
 
 If you find this repository helpful, consider giving it a ⭐ on GitHub!
+
+---
+
+## 👤 Author
+
+Muqadas Ejaz
+
+BS Computer Science (AI Specialization)
+
+AI/ML Engineer
+
+Data Science & Gen AI Enthusiast
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muqadasejaz/)  
+
+🌐 GitHub: [github.com/muqadasejaz](https://github.com/muqadasejaz)
+
+📬 Kaggle: [Kaggle Profile](https://www.kaggle.com/muqaddasejaz) 
